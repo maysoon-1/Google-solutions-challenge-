@@ -3,7 +3,7 @@
 
 ## selected Sustainable Development Goals
 
-<img src= "https://github.com/maysoon-1/Google-solutions-challenge-/assets/107502613/7a61cc3a-7197-41aa-8e48-b6f892d02999" width = "500">
+<img src= "https://github.com/maysoon-1/Google-solutions-challenge-/assets/107502613/7a61cc3a-7197-41aa-8e48-b6f892d02999" width = "600">
 
 ## Application interface:
 <img src= "" width = "500">
